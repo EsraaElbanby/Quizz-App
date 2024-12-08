@@ -1,0 +1,49 @@
+[
+    {
+        "title":"What does HTML stand for?",
+        "answer_1":"hyper text markup language",
+        "answer_2":"Home Tool markup language",
+        "answer_3":"hyperlinks and text markup language",
+        "right_answer":"hyper text markup language"
+
+    },
+
+    {
+        "title":"What is the correct HTML element for inserting a line break?",
+        "answer_1":"<break>",
+        "answer_2":"<br>",
+        "answer_3":"<lb>",
+        "right_answer":"<br>"
+
+    },
+
+    {
+        "title":"What is the correct HTML for making a text area?",
+        "answer_1":"<input type='textbox'>",
+        "answer_2": "<input type='textarea'>",
+        "answer_3":"<textarea>",
+        "right_answer":"<textarea>"
+
+    },
+
+    {
+        "title":"Choose the correct HTML element for the largest heading?",
+        "answer_1":"<head>",
+        "answer_2":"<h1>",
+        "answer_3":"<heading>",
+        "right_answer":"<h1>"
+
+    },
+
+    {
+        "title":"How can you open a link in a new tab/browser window?",
+        "answer_1":"<a href='url' target='new'>",
+        "answer_2":"<a href='url' target='_blank'>",
+        "answer_3":"<a href='url' new>",
+        "right_answer":"<a href='url' target='_blank'>"
+
+    }
+
+    
+    
+]
